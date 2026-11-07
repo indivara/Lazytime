@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<iq:manifest version="3" xmlns:iq="http://www.garmin.com/xml/connectiq">
+    <iq:application id="0c730e55-0fc7-4e31-bd68-7bb983204909" type="watchface" name="@Strings.AppName" entry="LazytimeApp" launcherIcon="@Drawables.LauncherIcon" minApiLevel="6.0.2">
+        <iq:products>
+            <iq:product id="fr57042mm"/>
+        </iq:products>
+        <iq:permissions/>
+        <iq:languages>
+            <iq:language>eng</iq:language>
+        </iq:languages>
+        <iq:barrels/>
+    </iq:application>
+</iq:manifest>
